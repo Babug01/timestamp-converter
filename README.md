@@ -1,6 +1,6 @@
 # Timestamp Converter
 
-**Live demo:** https://babug01.github.io/timestamp-converter/
+**Live demo:** https://timestamp-converter-beta.vercel.app (Vercel) · [GitHub Pages mirror](https://babug01.github.io/timestamp-converter/)
 
 Convert between Unix timestamps and human-readable dates in either direction, across nine
 timezones, with a live-ticking current-time display. Runs entirely in the browser; nothing you
